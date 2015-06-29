@@ -1,0 +1,15 @@
+2015-06-27 22:35:48.868 HelloCordova[1657:119088] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mishrab/Library/Developer/CoreSimulator/Devices/E3966CE4-E09B-4744-A1C0-38421234602E/data/Containers/Data/Application/183E6916-7F4B-4552-B107-B960070010D4/Library/Cookies/Cookies.binarycookies
+2015-06-27 22:35:49.172 HelloCordova[1657:119088] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-27 22:35:49.172 HelloCordova[1657:119088] Multi-tasking -> Device: YES, App: YES
+2015-06-27 22:35:49.189 HelloCordova[1657:119088] Unlimited access to network resources
+2015-06-27 22:35:49.207 HelloCordova[1657:119088] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-27 22:35:50.011 HelloCordova[1657:119088] Resetting plugins due to page load.
+2015-06-27 22:35:50.293 HelloCordova[1657:119088] Finished load of: file:///Users/mishrab/Library/Developer/CoreSimulator/Devices/E3966CE4-E09B-4744-A1C0-38421234602E/data/Containers/Bundle/Application/1A31B0E1-70BC-41AA-BE52-A8503A351E64/HelloCordova.app/www/index.html
+2015-06-27 22:43:12.256 HelloCordova[1657:121184] Terminating since there is no system app.
